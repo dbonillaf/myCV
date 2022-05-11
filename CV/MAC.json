@@ -20,20 +20,20 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/dbonillaf/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/dbonillaf"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/11204466/david-bonilla"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/david_bonilla"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/11204466/david-bonilla"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dbonillaf/"
       }
     ],
     "interestingFacts": [
@@ -42,27 +42,27 @@
         "fact": "Amstrad CPC 464"
       },
       {
-        "topic": "My favourite Videogame",
-        "fact": "Sid Meier's Civilization"
-      },
-      {
         "topic": "My favourite Food",
         "fact": "Ice Cream"
+      },
+      {
+        "topic": "My favourite Videogame",
+        "fact": "Sid Meier's Civilization"
       }
     ],
     "recommendations": [
       {
-        "title": "The secret to making money online",
+        "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
         "type": "reading",
-        "URL": "https://www.youtube.com/watch?v=0CDXJ6bMkMY",
+        "URL": "https://www.youtube.com/watch?v=sw0VfmXKq54",
         "authors": [
           {
-            "name": "David",
-            "surnames": "Heinemeier Hansson",
+            "name": "Ars",
+            "surnames": "Technica",
             "title": "Author"
           }
         ],
-        "summary": "You can download the slides from here: \n[http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf](http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf)\n"
+        "summary": "Ars Technica sat down with Prince of Persia creator **Jordan Mechner** to learn about the challenges he faced while bringing his ambitious vision for the game to life. \n\nAs the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself.\n\nDecades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform."
       },
       {
         "title": "Sid Meier's Memoir",
@@ -78,17 +78,17 @@
         "summary": "The life and career of the legendary developer celebrated as the “godfather of computer gaming” and creator of Civilization, featuring his rules of good game design."
       },
       {
-        "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
+        "title": "The secret to making money online",
         "type": "reading",
-        "URL": "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "URL": "https://www.youtube.com/watch?v=0CDXJ6bMkMY",
         "authors": [
           {
-            "name": "Ars",
-            "surnames": "Technica",
+            "name": "David",
+            "surnames": "Heinemeier Hansson",
             "title": "Author"
           }
         ],
-        "summary": "Ars Technica sat down with Prince of Persia creator **Jordan Mechner** to learn about the challenges he faced while bringing his ambitious vision for the game to life. \n\nAs the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself.\n\nDecades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform."
+        "summary": "You can download the slides from here: \n[http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf](http://s3.amazonaws.com/37assets/svn/1281-Startup+school+-+The+secret+to+making+money+online.pdf)\n"
       }
     ]
   },
@@ -96,20 +96,126 @@
     "jobs": [
       {
         "organization": {
-          "name": "Atlassian",
+          "name": "SNGULAR",
           "image": {
-            "alt": "atlassian-logo-DF2FCF6E4D-seeklogo.com.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7dbde589-b710-45f5-b7a7-0c1617340f24_491cc924-7999-4035-8.png"
+            "alt": "SNGULAR-Logo-Big.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/8d55cc06-bce6-47b5-9144-7b295cfa71d2_sngular-logo-big.png"
           }
         },
         "roles": [
           {
-            "name": "Technical Evangelist",
-            "startDate": "2011-06-01",
-            "finishDate": "2014-01-01",
+            "name": "EXCOM Member",
+            "startDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "We deliver."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "logo-manfred-sponsor.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4564bb8f-45d7-4ddd-9912-10b6b8af4492_86ae9b6d-b3ea-48c9-9.png"
+          },
+          "URL": "https://www.getmanfred.com/"
+        },
+        "roles": [
+          {
+            "name": "Founder and CEO",
+            "startDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "We grew the company from a recruiting agency to become a genuine career management platform.\n\nNow, we are an international team of 35 people, taking care of the career of **+12,000 professionals** around the World.\n\nTo achieve this, we had to:\n\n- Adapt the organization processes to scale its operations.\n- Implementation of Holacracy as the management system.\n- Development of own product to scale the company operations, especially the value added to candidates.\n- Completing the acquisition process by Sngular, maintaining the company's core of employees without any productivity or sales suffering before, during, and after it."
+              }
+            ],
             "competences": [
               {
                 "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Balsamiq",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Google Campus",
+          "URL": "https://www.linkedin.com/company/google-campus?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Residency Advisor",
+            "startDate": "2016-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto de Empresa",
+          "URL": "https://www.linkedin.com/company/ie-business-school?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Associate Professor",
+            "startDate": "2015-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Comalatech",
+          "image": {
+            "alt": "Comalatech-Solid-RGB-1024x268.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/be7b2e57-efe5-4e2d-839a-4490ba0ef457_4a0f2150-2e38-4bc9-b.png"
+          },
+          "URL": "https://www.comalatech.com/"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2017-02-01",
+            "finishDate": "2018-06-01",
+            "competences": [
+              {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               }
             ]
@@ -140,31 +246,18 @@
       },
       {
         "organization": {
-          "name": "Comalatech",
+          "name": "Atlassian",
           "image": {
-            "alt": "Comalatech-Solid-RGB-1024x268.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/be7b2e57-efe5-4e2d-839a-4490ba0ef457_4a0f2150-2e38-4bc9-b.png"
-          },
-          "URL": "https://www.comalatech.com/"
+            "alt": "atlassian-logo-DF2FCF6E4D-seeklogo.com.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7dbde589-b710-45f5-b7a7-0c1617340f24_491cc924-7999-4035-8.png"
+          }
         },
         "roles": [
           {
-            "name": "CEO",
-            "startDate": "2017-02-01",
-            "finishDate": "2018-06-01",
+            "name": "Technical Evangelist",
+            "startDate": "2011-06-01",
+            "finishDate": "2014-01-01",
             "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
               {
                 "name": "Atlassian",
                 "type": "technology"
@@ -175,42 +268,17 @@
       },
       {
         "organization": {
-          "name": "Manfred",
-          "image": {
-            "alt": "logo-manfred-sponsor.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4564bb8f-45d7-4ddd-9912-10b6b8af4492_86ae9b6d-b3ea-48c9-9.png"
-          },
-          "URL": "https://www.getmanfred.com/"
+          "name": "SIXSERVIX OMEGA S.L.",
+          "URL": "https://www.linkedin.com/company/sixservix-omega-s.l.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
           {
-            "name": "Founder and CEO",
-            "startDate": "2018-06-01",
+            "name": "CTO",
+            "startDate": "2003-09-01",
+            "finishDate": "2011-06-30",
             "challenges": [
               {
-                "description": "We grew the company from a recruiting agency to become a genuine career management platform.\n\nNow, we are an international team of 35 people, taking care of the career of **+12,000 professionals** around the World.\n\nTo achieve this, we had to:\n\n- Adapt the organization processes to scale its operations.\n- Implementation of Holacracy as the management system.\n- Development of own product to scale the company operations, especially the value added to candidates.\n- Completing the acquisition process by Sngular, maintaining the company's core of employees without any productivity or sales suffering before, during, and after it."
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Balsamiq",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian",
-                "type": "technology"
+                "description": "I lead a team to build a whole ERP System from the scratch. I lead a team to build a whole ERP System from the scratch."
               }
             ]
           }
@@ -218,25 +286,47 @@
       },
       {
         "organization": {
-          "name": "SNGULAR",
-          "image": {
-            "alt": "SNGULAR-Logo-Big.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/8d55cc06-bce6-47b5-9144-7b295cfa71d2_sngular-logo-big.png"
-          }
+          "name": "IP Soluciones",
+          "URL": "https://www.linkedin.com/company/ip-soluciones?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
           {
-            "name": "EXCOM Member",
-            "startDate": "2019-03-01",
+            "name": "Java Senior Developer",
+            "startDate": "2003-01-01",
+            "finishDate": "2003-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Azertia",
+          "URL": "https://www.linkedin.com/company/azertia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2001-10-01",
+            "finishDate": "2003-01-31",
             "challenges": [
               {
-                "description": "We deliver."
+                "description": "Developing the Online Payment Gateway used by BBVA. Developing the Online Payment Gateway used by BBVA."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Bit Bang Network"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2001-06-01",
+            "finishDate": "2001-10-31",
+            "challenges": [
               {
-                "name": "JavaScript",
-                "type": "technology"
+                "description": "Developing B2B and B2C websites Coolpeter y Netmedika and a custom CMS from the scratch, using J2EE, JSP/Servlets, EJBs 1.0, SilverStream 3.5.2, Weblogic 6 and Oracle 7 Developing B2B and B2C websites Coolpeter y Netmedika and a custom CMS from the scratch, using J2EE, JSP/Servlets, EJBs 1.0, SilverStream 3.5.2, Weblogic 6 and Oracle 7"
               }
             ]
           }
@@ -289,17 +379,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      },
-      {
-        "name": "English"
-      },
-      {
-        "name": "Galician"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -340,6 +419,16 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería informática ",
+        "startDate": "2002-01-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "URL": "https://www.linkedin.com/school/uoc/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified Scrum Master",
@@ -370,11 +459,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "C",
             "type": "technology"
           },
           {
-            "name": "C",
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -390,6 +479,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Internet Application Development Master Degree Desarrollo de aplicaciones web",
+        "startDate": "2000-01-01",
+        "finishDate": "2001-12-31",
+        "institution": {
+          "name": "CFDTI IBM/La Caixa"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Derecho ",
+        "startDate": "1995-01-01",
+        "finishDate": "2000-12-31",
+        "institution": {
+          "name": "Universidad Autónoma de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
+        }
       }
     ]
   },
