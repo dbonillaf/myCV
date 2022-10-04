@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/2a1a323e-a704-4e9a-8d57-b75f3c72879a_337cef41-c6b1-42c8-b.jpeg"
       },
       "location": {
-        "notes": "A Coruña, Galicia, Spain"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -336,6 +338,19 @@
     "projects": [
       {
         "details": {
+          "name": "Tarugoconf",
+          "description": "El evento más gallego y awesómico del mundo."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "La Bonilista",
           "description": "Weekly Newsletter (in Spanish) about technology and business with more than 15,000 subscribers.",
           "URL": "https://www.bonilista.com/",
@@ -393,7 +408,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JSON",
           "type": "technology"
         }
       },
@@ -411,6 +426,12 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -418,12 +439,6 @@
       {
         "skill": {
           "name": "Balsamiq",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
           "type": "technology"
         }
       }
@@ -525,6 +540,9 @@
           "name": "Cobol",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Product Manager"
       ]
     }
   }
