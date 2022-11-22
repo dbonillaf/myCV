@@ -416,13 +416,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -434,13 +440,7 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
