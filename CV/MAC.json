@@ -557,6 +557,10 @@
           "type": "technology"
         },
         {
+          "name": "ES6",
+          "type": "technology"
+        },
+        {
           "name": "Windows",
           "type": "technology"
         }
