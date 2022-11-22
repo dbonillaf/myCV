@@ -225,7 +225,12 @@
         "roles": [
           {
             "name": "Associate Professor",
-            "startDate": "2015-04-01"
+            "startDate": "2015-04-01",
+            "challenges": [
+              {
+                "description": "I have taught Productivity processes and tooling in different programs like IMBA, GXMBA, Summer School, and specific courses for multiple organizations and companies."
+              }
+            ]
           }
         ]
       },
