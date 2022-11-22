@@ -307,13 +307,19 @@
           "image": {
             "alt": "640px-Atlassian-logo.svg.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/7dcde771-6b99-4437-810b-14e466b9d60c_640px-atlassian-logo.png"
-          }
+          },
+          "URL": "https://www.atlassian.com"
         },
         "roles": [
           {
             "name": "Technical Evangelist",
             "startDate": "2011-06-01",
             "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "I represented Atlassian in Europe and Middle East. I evangelized about its products as a bridge between the company and local communities."
+              }
+            ],
             "competences": [
               {
                 "name": "Atlassian",
