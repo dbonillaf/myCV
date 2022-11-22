@@ -629,7 +629,7 @@
         }
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering (Unfinished Studies)",
         "startDate": "2002-09-01",
