@@ -519,7 +519,11 @@
       {
         "details": {
           "name": "SNGULAR IPO",
-          "URL": "https://www.elconfidencial.com/espana/andalucia/2021-12-01/tecnologica-sngular-salida-bolsa-valoracion_3333522/"
+          "URL": "https://www.elconfidencial.com/espana/andalucia/2021-12-01/tecnologica-sngular-salida-bolsa-valoracion_3333522/",
+          "image": {
+            "alt": "fotonoticia_20220404110647_420.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/da53cb85-b07f-4e65-8f7d-8aa51fe18ec5_fotonoticia_20220404.jpeg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2021-12-01",
