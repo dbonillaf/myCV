@@ -450,7 +450,12 @@
     "projects": [
       {
         "details": {
-          "name": "MAC"
+          "name": "MAC",
+          "URL": "https://github.com/getmanfred/mac",
+          "image": {
+            "alt": "Captura de pantalla 2022-11-22 a las 22.20.16.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/0a7bcbc0-b0ed-4a80-b1f3-c14e522e8dfd_captura-de-pantalla-.png"
+          }
         },
         "type": "openSource",
         "roles": [
