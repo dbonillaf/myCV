@@ -518,6 +518,17 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "SNGULAR IPO",
+          "URL": "https://www.elconfidencial.com/espana/andalucia/2021-12-01/tecnologica-sngular-salida-bolsa-valoracion_3333522/"
+        },
+        "type": "achievement",
+        "publishingDate": "2021-12-01",
+        "tags": [
+          "entrepreneurship"
+        ]
+      },
+      {
+        "details": {
           "name": "I finished the Stockholm Marathon ",
           "description": "My time was 4.12.39",
           "URL": "https://www.stockholmmarathon.se/",
