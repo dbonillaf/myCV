@@ -586,6 +586,33 @@
     ],
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Internet Application Development Master Degree",
+        "startDate": "2001-12-01",
+        "institution": {
+          "name": "CFDTI IBM/La Caixa"
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified Scrum Master",
@@ -637,16 +664,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Internet Application Development Master Degree Desarrollo de aplicaciones web",
-        "startDate": "2000-01-01",
-        "finishDate": "2001-12-31",
-        "institution": {
-          "name": "CFDTI IBM/La Caixa"
-        }
       },
       {
         "studyType": "officialDegree",
