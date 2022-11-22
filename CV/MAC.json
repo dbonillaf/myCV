@@ -591,7 +591,8 @@
         "name": "Internet Application Development Master Degree",
         "startDate": "2001-12-01",
         "institution": {
-          "name": "CFDTI IBM/La Caixa"
+          "name": "CFDTI IBM/La Caixa",
+          "description": "The place where I learnt to code and I discovered my professional vocation. A join venture of IBM and La Caixa."
         },
         "linkedCompetences": [
           {
