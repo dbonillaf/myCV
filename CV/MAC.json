@@ -216,6 +216,10 @@
       {
         "organization": {
           "name": "Instituto de Empresa",
+          "image": {
+            "alt": "15055775_1886421894918991_3885758019991668043_n.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/458e1a32-0dd9-4a47-b946-0bf029b76a5f_15055775_18864218949.png"
+          },
           "URL": "https://www.linkedin.com/company/ie-business-school?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
