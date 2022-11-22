@@ -390,6 +390,10 @@
       {
         "organization": {
           "name": "Azertia",
+          "image": {
+            "alt": "31351_res_300.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/3afaa7b8-8a4b-43cd-9e5c-b4cfcac5a2f7_31351_res_300.jpeg"
+          },
           "URL": "https://www.linkedin.com/company/azertia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
