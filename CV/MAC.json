@@ -586,34 +586,6 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Internet Application Development Master Degree",
-        "startDate": "2001-12-01",
-        "institution": {
-          "name": "CFDTI IBM/La Caixa",
-          "description": "The place where I learnt to code and I discovered my professional vocation. A join venture of IBM and La Caixa."
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified Scrum Master",
@@ -662,6 +634,35 @@
           },
           {
             "name": "Wireshark",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Internet Application Development Master Degree",
+        "startDate": "2000-09-01",
+        "finishDate": "2001-06-01",
+        "institution": {
+          "name": "CFDTI IBM/La Caixa",
+          "description": "The place where I learnt to code and I discovered my professional vocation. A join venture of IBM and La Caixa."
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
             "type": "technology"
           }
         ]
