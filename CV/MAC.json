@@ -665,17 +665,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Derecho ",
-        "startDate": "1995-01-01",
-        "finishDate": "2000-12-31",
-        "institution": {
-          "name": "Universidad Autónoma de Madrid",
-          "URL": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
-        }
       }
     ]
   },
