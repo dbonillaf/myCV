@@ -426,7 +426,21 @@
             "finishDate": "2001-10-31",
             "challenges": [
               {
-                "description": "Developing B2B and B2C websites Coolpeter y Netmedika and a custom CMS from the scratch, using J2EE, JSP/Servlets, EJBs 1.0, SilverStream 3.5.2, Weblogic 6 and Oracle 7 Developing B2B and B2C websites Coolpeter y Netmedika and a custom CMS from the scratch, using J2EE, JSP/Servlets, EJBs 1.0, SilverStream 3.5.2, Weblogic 6 and Oracle 7"
+                "description": "Developing B2B and B2C websites Coolpeter y Netmedika and a custom CMS from the scratch."
+              }
+            ],
+            "competences": [
+              {
+                "name": "EJB",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
               }
             ]
           }
