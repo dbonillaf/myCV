@@ -422,19 +422,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Balsamiq",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -452,7 +440,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Balsamiq",
           "type": "technology"
         }
       }
