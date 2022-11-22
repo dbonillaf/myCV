@@ -194,7 +194,22 @@
         "roles": [
           {
             "name": "Residency Advisor",
-            "startDate": "2016-06-01"
+            "startDate": "2016-06-01",
+            "challenges": [
+              {
+                "description": "Mentoring different batches of startups participating in the Madrid Campus Accelerator Program."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
