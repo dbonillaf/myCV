@@ -332,6 +332,10 @@
       {
         "organization": {
           "name": "SIXSERVIX OMEGA S.L.",
+          "image": {
+            "alt": "logo-varma-new.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/01771bba-e6b3-4819-b7b0-7861749fe83a_logo-varma-new.jpeg"
+          },
           "URL": "https://www.linkedin.com/company/sixservix-omega-s.l.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
         "roles": [
