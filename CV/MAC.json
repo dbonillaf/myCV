@@ -450,6 +450,24 @@
     "projects": [
       {
         "details": {
+          "name": "MAC"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "JSON",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Tarugoconf",
           "description": "El evento más gallego y awesómico del mundo.",
           "URL": "https://www.tarugoconf.com",
