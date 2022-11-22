@@ -451,6 +451,7 @@
       {
         "details": {
           "name": "MAC",
+          "description": "The MAC (or Manfred Awesomic CV) is a(nother) naive attempt to create a standard open source format to define and share CVs. The format is defined as a JSON Schema to validate CVs stored as JSON files.",
           "URL": "https://github.com/getmanfred/mac",
           "image": {
             "alt": "480px-Android_O_Preview_Logo.png",
