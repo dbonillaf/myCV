@@ -601,14 +601,15 @@
         }
       },
       {
-        "studyType": "officialDegree",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Computer Engineering",
+        "name": "Computer Engineering (Unfinished Studies)",
         "startDate": "2002-09-01",
         "finishDate": "2008-06-01",
         "institution": {
           "name": "UOC",
-          "description": "Unfinished Studies.\n\nI combined studies and work... and work won :)",
+          "description": "I combined studies and work... and work won :)",
+          "URL": "https://www.uoc.edu",
           "image": {
             "alt": "202-nova-marca-uoc.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/1dd3c58e-3660-4286-9c60-d2463cd72b16_f6c7906a-32a3-4175-b.jpeg"
