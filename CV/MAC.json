@@ -287,6 +287,11 @@
             "name": "Founder and CEO",
             "startDate": "2014-01-01",
             "finishDate": "2016-12-01",
+            "challenges": [
+              {
+                "description": "Otogami was a startup that crawled and compared millions of videogames pricing points to get the best discounts for its users. We rose more than €300K in a seed financing round\n\nFinally, [the company was acquired by 8Kdata](https://www.bonillaware.com/como-vender-startup)."
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
