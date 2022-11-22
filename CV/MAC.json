@@ -451,7 +451,12 @@
       {
         "details": {
           "name": "Tarugoconf",
-          "description": "El evento más gallego y awesómico del mundo."
+          "description": "El evento más gallego y awesómico del mundo.",
+          "URL": "https://www.tarugoconf.com",
+          "image": {
+            "alt": "CUBO amarillo azul.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/8526d22b-1034-4385-8926-b91f4329c846_cubo-amarillo-azul.png"
+          }
         },
         "type": "sideProject",
         "roles": [
