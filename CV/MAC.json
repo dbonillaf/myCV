@@ -305,8 +305,8 @@
         "organization": {
           "name": "Atlassian",
           "image": {
-            "alt": "atlassian-logo-DF2FCF6E4D-seeklogo.com.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7dbde589-b710-45f5-b7a7-0c1617340f24_491cc924-7999-4035-8.png"
+            "alt": "640px-Atlassian-logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/7dcde771-6b99-4437-810b-14e466b9d60c_640px-atlassian-logo.png"
           }
         },
         "roles": [
