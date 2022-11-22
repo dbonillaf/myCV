@@ -241,13 +241,18 @@
             "alt": "Comalatech-Solid-RGB-1024x268.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/be7b2e57-efe5-4e2d-839a-4490ba0ef457_4a0f2150-2e38-4bc9-b.png"
           },
-          "URL": "https://www.comalatech.com/"
+          "URL": "https://www.comalatech.com"
         },
         "roles": [
           {
             "name": "CEO",
             "startDate": "2017-02-01",
             "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "Comalatech has grown to become a company with 17 employees and 3 million dollar revenue per year, developing plugins that extend the functionalities of the Atlassian main products. My goal is to scale the organization to help grow in future."
+              }
+            ],
             "competences": [
               {
                 "name": "Atlassian",
