@@ -534,6 +534,22 @@
       },
       {
         "details": {
+          "name": "Publish a Book",
+          "description": "I published \"Mundo Tarugo\", a collection of some of the best articles I have ever written, commented by relevant people in the tech scene.",
+          "URL": "https://amzn.to/3gwhdlZ",
+          "image": {
+            "alt": "41RVSWANxcL._SX329_BO1,204,203,200_.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/22/17ec7f56-b216-4e50-a50d-e0051b286f38_41rvswanxcl.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2019-11-01",
+        "tags": [
+          "side projects"
+        ]
+      },
+      {
+        "details": {
           "name": "I finished the Stockholm Marathon ",
           "description": "My time was 4.12.39",
           "URL": "https://www.stockholmmarathon.se/",
