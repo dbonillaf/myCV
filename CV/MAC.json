@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -107,7 +106,8 @@
           "image": {
             "alt": "SNGULAR-Logo-Big.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/8d55cc06-bce6-47b5-9144-7b295cfa71d2_sngular-logo-big.png"
-          }
+          },
+          "URL": "https://www.sngular.com/"
         },
         "roles": [
           {
@@ -115,13 +115,7 @@
             "startDate": "2019-03-01",
             "challenges": [
               {
-                "description": "We deliver."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
+                "description": "Member of the Global Leadership Team"
               }
             ]
           }
@@ -401,16 +395,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Professional working proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -578,7 +569,6 @@
         "Director / General Manager",
         "Technical Recruitment"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
