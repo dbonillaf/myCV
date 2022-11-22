@@ -115,7 +115,25 @@
             "startDate": "2019-03-01",
             "challenges": [
               {
-                "description": "Member of the Global Leadership Team"
+                "description": "Member of the Global Leadership Team (GLT)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Miro",
+                "type": "technology"
+              },
+              {
+                "name": "Zoho",
+                "type": "technology"
               }
             ]
           }
