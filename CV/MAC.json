@@ -360,7 +360,30 @@
           {
             "name": "Java Senior Developer",
             "startDate": "2003-01-01",
-            "finishDate": "2003-09-30"
+            "finishDate": "2003-09-30",
+            "challenges": [
+              {
+                "description": "Hired to help in a critical project for Grupo VARMA, until they hired us directly."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "XSL",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
