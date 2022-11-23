@@ -589,6 +589,22 @@
       },
       {
         "details": {
+          "name": "Atlassian IPO",
+          "description": "It was a wild ride! from little Australian bootstrapped company to a NASDAQ behemoth. It was an incredible privilege to live the travel from inside.",
+          "URL": "https://www.reuters.com/article/us-atlassian-corp-ipo-pricing-idUSKBN0TS2Z320151210",
+          "image": {
+            "alt": "6444f1e6a0625588192a3eabb400e85a6e9f031c_Atlassian20photo_tcm5044-23625.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/23/7e2726c5-9633-44e8-b136-b298a0f6aa55_6444f1e6a0625588192a.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2015-12-01",
+        "tags": [
+          "tech"
+        ]
+      },
+      {
+        "details": {
           "name": "Prepare and finish 8 marathons",
           "description": "Valencia 2015\nMadrid 2016\nBilbao 2016\nStockholm 2017\nPrague 2018\nSeville 2018\nFirenze 2019\nSeville 2020",
           "image": {
