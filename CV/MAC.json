@@ -58,6 +58,19 @@
     ],
     "recommendations": [
       {
+        "title": "Getting Real",
+        "type": "reading",
+        "URL": "https://amzn.to/3tWCuIJ",
+        "authors": [
+          {
+            "name": "37signals",
+            "surnames": "37signals",
+            "title": "Author"
+          }
+        ],
+        "summary": "TBD"
+      },
+      {
         "title": "How Prince of Persia Defeated Apple II's Memory Limitations",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=sw0VfmXKq54",
