@@ -679,8 +679,12 @@
       {
         "details": {
           "name": "The Modern Developer @ Ironhack Hackshow 2013",
-          "description": "A love declaration to the Developer profession and a tribute to my grandpa.",
-          "URL": "https://www.youtube.com/watch?v=MxebXDRZHaQ"
+          "description": "A love declaration (in Spanish) to the Developer profession and a tribute to my grandpa.",
+          "URL": "https://www.youtube.com/watch?v=MxebXDRZHaQ",
+          "image": {
+            "alt": "Captura de pantalla 2022-11-24 a las 14.18.09.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/4f065707-37c9-4c90-b185-08b2d40d6026_captura-de-pantalla-.png"
+          }
         },
         "type": "talk",
         "publishingDate": "2013-12-01",
