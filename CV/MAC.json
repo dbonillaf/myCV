@@ -643,6 +643,17 @@
         "tags": [
           "running"
         ]
+      },
+      {
+        "details": {
+          "name": "Politicamente Incorrecto",
+          "URL": "https://www.youtube.com/watch?v=MrlkWyXPGe8"
+        },
+        "type": "talk",
+        "publishingDate": "2014-05-01",
+        "tags": [
+          "tech"
+        ]
       }
     ]
   },
