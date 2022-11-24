@@ -617,16 +617,23 @@
         "details": {
           "name": "Organize a + 1,000 people Tech Conference / Tarugoconf 2019",
           "description": "The Tarugoconf was born as a little gathering for the Community created around the [Bonilista](https://www.bonilista.com). It has been incredible to see how it evolved to one of the biggest Tech Conference in Spain 😍",
-          "URL": "https://www.tarugoconf.com",
-          "image": {
-            "alt": "david.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/ea81264d-8442-4406-a521-8de77a38d72f_david.jpeg"
-          }
+          "URL": "https://www.tarugoconf.com"
         },
         "type": "achievement",
         "publishingDate": "2019-10-01",
         "tags": [
           "side projects"
+        ]
+      },
+      {
+        "details": {
+          "name": "First manfredite hired!",
+          "URL": "https://twitter.com/david_bonilla/status/1082574552348143616"
+        },
+        "type": "achievement",
+        "publishingDate": "2019-01-01",
+        "tags": [
+          "entrepreneurship"
         ]
       },
       {
