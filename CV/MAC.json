@@ -759,6 +759,7 @@
       {
         "details": {
           "name": "Hired by Atlassian",
+          "description": "Before becoming an employee, I was a power user and a fan of the Australian company. It was my first experience in a \"Silicon Valley\" startup and I learnt a lot of stuff about how to sell software.",
           "URL": "https://www.bonillaware.com/atlassian",
           "image": {
             "alt": "bonilla.jpg",
@@ -766,7 +767,10 @@
           }
         },
         "type": "achievement",
-        "publishingDate": "2011-07-01"
+        "publishingDate": "2011-07-01",
+        "tags": [
+          "tech"
+        ]
       },
       {
         "details": {
