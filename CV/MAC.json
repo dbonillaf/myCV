@@ -600,7 +600,11 @@
       {
         "details": {
           "name": "Manfred acquired by SNGULAR",
-          "URL": "https://bonillaware.com/manfred-sngular"
+          "URL": "https://bonillaware.com/manfred-sngular",
+          "image": {
+            "alt": "FRajqsDXsAI0Pl-.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/86b1c025-6e2a-4e61-9093-aee80435572e_frajqsdxsai0pl-.jpeg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2020-02-01",
