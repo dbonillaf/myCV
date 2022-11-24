@@ -663,7 +663,11 @@
         "details": {
           "name": "Politicamente Incorrecto / Politically Incorrect @ Codemotion 2014",
           "description": "A personal glance at the Software Developer work, and our power and responsibility, as a collective, to improve our society.",
-          "URL": "https://www.youtube.com/watch?v=MrlkWyXPGe8"
+          "URL": "https://www.youtube.com/watch?v=MrlkWyXPGe8",
+          "image": {
+            "alt": "kk.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/85004e06-e90d-463e-9349-d1ff370efdfc_kk.jpg"
+          }
         },
         "type": "talk",
         "publishingDate": "2014-11-01",
