@@ -615,6 +615,17 @@
       },
       {
         "details": {
+          "name": "¿Cobras poco? Carreras profesionales en software / Are you cheap? Professional Software Careers  @ T3chFest 2018",
+          "URL": "https://www.youtube.com/watch?v=d2_CUOeCgVE"
+        },
+        "type": "talk",
+        "publishingDate": "2018-03-01",
+        "tags": [
+          "tech"
+        ]
+      },
+      {
+        "details": {
           "name": "Atlassian IPO",
           "description": "It was a wild ride! From a little Australian bootstrapped company to a NASDAQ behemoth. It was an incredible privilege to live the travel from the inside.",
           "URL": "https://www.reuters.com/article/us-atlassian-corp-ipo-pricing-idUSKBN0TS2Z320151210",
@@ -648,11 +659,7 @@
         "details": {
           "name": "Politicamente Incorrecto / Politically Incorrect @ Codemotion 2014",
           "description": "A personal glance at the Software Developer work, and our power and responsibility, as a collective, to improve our society.",
-          "URL": "https://www.youtube.com/watch?v=MrlkWyXPGe8",
-          "image": {
-            "alt": "kk.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/2e8fc8de-b43d-4329-bcd2-3ea786fe4c91_kk.jpg"
-          }
+          "URL": "https://www.youtube.com/watch?v=MrlkWyXPGe8"
         },
         "type": "talk",
         "publishingDate": "2014-11-01",
