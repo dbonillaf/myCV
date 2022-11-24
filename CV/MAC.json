@@ -758,6 +758,13 @@
       },
       {
         "details": {
+          "name": "Hired by Atlassian"
+        },
+        "type": "achievement",
+        "publishingDate": "2011-07-01"
+      },
+      {
+        "details": {
           "name": "ERP/S1",
           "description": "After 5 years of hard work, we launched a full ERP built from scratch for Grupo VARMA. We needed 3 more years to complete the suite with Storetto (an SCM software) but we did it.\n\nIt was the first digital product I led from the very beginning and **where I became the professional, I'm today**.",
           "URL": "https://web.archive.org/web/20110805084648/http://sixservix.com/es",
