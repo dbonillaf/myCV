@@ -616,7 +616,11 @@
       {
         "details": {
           "name": "¿Cobras poco? Carreras profesionales en software / Are you cheap? Professional Software Careers  @ T3chFest 2018",
-          "URL": "https://www.youtube.com/watch?v=d2_CUOeCgVE"
+          "URL": "https://www.youtube.com/watch?v=d2_CUOeCgVE",
+          "image": {
+            "alt": "Captura de pantalla 2022-11-24 a las 13.44.44.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/7fbd786c-d2d4-4b66-98f1-3f540974da95_captura-de-pantalla-.png"
+          }
         },
         "type": "talk",
         "publishingDate": "2018-03-01",
