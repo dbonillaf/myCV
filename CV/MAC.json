@@ -678,11 +678,15 @@
       },
       {
         "details": {
-          "name": "El programador moderno @ Ironhack Hackshow 2013",
+          "name": "The Modern Developer @ Ironhack Hackshow 2013",
+          "description": "A love declaration to the Developer profession and a tribute to my grandpa.",
           "URL": "https://www.youtube.com/watch?v=MxebXDRZHaQ"
         },
         "type": "talk",
-        "publishingDate": "2013-12-01"
+        "publishingDate": "2013-12-01",
+        "tags": [
+          "tech"
+        ]
       },
       {
         "details": {
