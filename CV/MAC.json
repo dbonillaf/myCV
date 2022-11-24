@@ -628,7 +628,11 @@
       {
         "details": {
           "name": "First manfredite hired!",
-          "URL": "https://twitter.com/david_bonilla/status/1082574552348143616"
+          "URL": "https://twitter.com/david_bonilla/status/1082574552348143616",
+          "image": {
+            "alt": "Captura de pantalla 2022-11-24 a las 15.43.18.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/0d5cd29d-dedd-4cd4-b89b-454ffb741461_captura-de-pantalla-.png"
+          }
         },
         "type": "achievement",
         "publishingDate": "2019-01-01",
