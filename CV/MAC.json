@@ -678,6 +678,14 @@
       },
       {
         "details": {
+          "name": "El programador moderno @ Ironhack Hackshow 2013",
+          "URL": "https://www.youtube.com/watch?v=MxebXDRZHaQ"
+        },
+        "type": "talk",
+        "publishingDate": "2013-12-01"
+      },
+      {
+        "details": {
           "name": "First Public Tech Talk @ Open Java Day 2008",
           "description": "I felt that I had to give back to the Community all the value received during the first years of my career, and that is why I prepared this first talk about the Glassfish Application Server.\n\nI couldn't find a recording of the talk.",
           "URL": "https://danilat.com/weblog/2008/07/02/resumen-del-open-java-day-2008"
