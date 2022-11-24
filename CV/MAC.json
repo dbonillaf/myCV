@@ -599,6 +599,16 @@
       },
       {
         "details": {
+          "name": "Manfred acquired by SNGULAR"
+        },
+        "type": "achievement",
+        "publishingDate": "2020-02-01",
+        "tags": [
+          "entrepreneurship"
+        ]
+      },
+      {
+        "details": {
           "name": "Publish a Book",
           "description": "I published \"Mundo Tarugo\", a collection of some of the best articles I have ever written, commented by relevant people in the tech scene.",
           "URL": "https://amzn.to/3gwhdlZ",
