@@ -694,6 +694,21 @@
       },
       {
         "details": {
+          "name": "Close of the Funding Round of Otogami",
+          "URL": "https://www.bonillaware.com/inversion-330-000-euros-otogami",
+          "image": {
+            "alt": "firma-notario-inversion-otogami.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/c563d233-1b4d-4358-940e-631d9202503f_firma-notario-invers.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2013-11-01",
+        "tags": [
+          "entrepreneurship"
+        ]
+      },
+      {
+        "details": {
           "name": "ERP/S1",
           "description": "After 5 years of hard work, we launched a full ERP built from scratch for Grupo VARMA. We needed 3 more years to complete the suite with Storetto (an SCM software) but we did it.\n\nIt was the first digital product I led from the very beginning and **where I became the professional, I'm today**.",
           "URL": "https://web.archive.org/web/20110805084648/http://sixservix.com/es",
