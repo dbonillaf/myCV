@@ -758,7 +758,11 @@
       },
       {
         "details": {
-          "name": "Hired by Atlassian"
+          "name": "Hired by Atlassian",
+          "image": {
+            "alt": "bonilla.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/cb9bb1d3-05cc-4db9-8ceb-c2fa7bf0517e_bonilla.jpg"
+          }
         },
         "type": "achievement",
         "publishingDate": "2011-07-01"
