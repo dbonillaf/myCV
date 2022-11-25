@@ -997,6 +997,10 @@
           "type": "technology"
         },
         {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "Unity3D",
           "type": "technology"
         }
